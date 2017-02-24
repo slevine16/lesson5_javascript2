@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 24, 2017
 
 ### Student Name:  
-(First and Last Name)
+Sara Levine
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+For this assignment, we used Javascript to code a tax calculator that could deal with four variables depending on filing status.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://slevine16.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Decision-making is the process of determing the order in which statements execute in a program. If statements are the most common and they are used to execute a specific programming code. 
+2. Switch statements control program flow by executing a specific set of statements. They compare expressions value to value contained within a case label.
+3. To execute a named function, one must call it. This is done by code calling a function, which is the function name followed by parentheses, i.e. myfunction().
